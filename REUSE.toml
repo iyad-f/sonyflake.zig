@@ -1,0 +1,12 @@
+# SPDX-FileCopyrightText: 2026 Iyad
+#
+# SPDX-License-Identifier: Apache-2.0
+
+version = 1
+
+# Files whose contents are rendered/injected elsewhere (so an inline SPDX
+# header would leak into the output) are annotated here instead.
+[[annotations]]
+path = ".github/PULL_REQUEST_TEMPLATE.md"
+SPDX-FileCopyrightText = "2026 Iyad"
+SPDX-License-Identifier = "Apache-2.0"

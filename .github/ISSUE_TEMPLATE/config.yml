@@ -1,0 +1,9 @@
+# SPDX-FileCopyrightText: 2026 Iyad
+#
+# SPDX-License-Identifier: Apache-2.0
+
+blank_issues_enabled: false
+contact_links:
+  - name: Questions
+    url: https://github.com/iyad-f/sonyflake.zig/discussions
+    about: Ask and answer usage questions here.
